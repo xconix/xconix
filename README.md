@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+### 🔭 I’m currently working on ...
 <!--
 **xconix/xconix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +14,165 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+# Feuille de Route : 16 Décembre 2025 – 31 Janvier 2026
+
+**Objectifs** :
+- Réussir AZ-900, AZ-104, AZ-204, AZ-400
+- Valider PCAP puis GitHub Foundations et Github Actions
+- Suivre les cours Python de Harvard
+- Maintenir un équilibre avec les projets perso
+
+---
+
+## Semaine 1 (16–20 Décembre 2025)
+**Priorité** : AZ-900 (17/12) + Préparation AZ-104
+
+| Jour       | Matin (3h)               | Après-midi (3h)          | Soir (2h)                |
+|------------|--------------------------|--------------------------|--------------------------|
+| **Mar 16** | Révision AZ-900 (simulations d’examen) | AZ-900 : Focus sécurité/compliance | Relaxation (veille de l’examen) |
+| **Mer 17** | **Examen AZ-900 (9h30)** | Repos post-examen        | Lancer AZ-104 : Module 1 (Identité/Gouvernance) |
+| **Jeu 18** | AZ-104 : Module 2 (Réseaux) | AZ-104 : Module 3 (Stockage) | PCAP : Python Essentials 1 (Ch. 1-3) |
+| **Ven 19** | AZ-104 : Module 4 (VMs)   | AZ-104 : Labs pratiques   | GitHub Foundations : Module 1 |
+| **Sam 20** | *Pause*                  | *Pause*                  | *Optionnel : Révision légère AZ-104* |
+| **Dim 21** | *Pause*                  | *Pause*                  | *Optionnel : Cours Python Harvard (Semaine 0)* |
+
+---
+
+## Semaine 2 (22–26 Décembre 2025)
+**Priorité** : AZ-104 + PCAP
+
+| Jour       | Matin                     | Après-midi               | Soir                     |
+|------------|---------------------------|--------------------------|--------------------------|
+| **Lun 22** | AZ-104 : Module 5 (Bases de données) | AZ-104 : Labs + QCM      | PCAP : Exercices pratiques |
+| **Mar 23** | AZ-104 : Révision complète | AZ-104 : Simulation d’examen | GitHub Foundations : Module 2 |
+| **Mer 24** | **Examen AZ-104 (à planifier)** | Repos post-examen    | Cours Python Harvard (Semaine 1) |
+| **Jeu 25** | *Férié*                   | *Férié*                  | *Férié*                  |
+| **Ven 26** | PCAP : Python Essentials 1 (Ch. 4-6) | PCAP : Exercices avancés | GitHub Foundations : Module 3 |
+
+---
+
+## Semaine 3 (29 Décembre 2025 – 2 Janvier 2026)
+**Priorité** : AZ-204 + PCAP
+
+| Jour       | Matin                     | Après-midi               | Soir                     |
+|------------|---------------------------|--------------------------|--------------------------|
+| **Lun 29** | AZ-204 : Module 1 (Développement Azure) | AZ-204 : Module 2 (Stockage) | PCAP : Révision |
+| **Mar 30** | AZ-204 : Module 3 (APIs)  | AZ-204 : Labs            | GitHub Foundations : Révision |
+| **Mer 31** | AZ-204 : Module 4 (Sécurité) | AZ-204 : Simulation d’examen | **Examen GitHub Foundations** |
+| **Jeu 01** | *Pause*                   | *Pause*                  | *Optionnel : Python Harvard* |
+| **Ven 02** | **Examen AZ-204 (à planifier)** | Repos post-examen | PCAP : Simulation d’examen |
+
+---
+
+## Semaine 4 (5–9 Janvier 2026)
+**Priorité** : AZ-400 + PCAP
+
+| Jour       | Matin                     | Après-midi               | Soir                     |
+|------------|---------------------------|--------------------------|--------------------------|
+| **Lun 05** | AZ-400 : Module 1 (CI/CD) | AZ-400 : Module 2 (IaC)  | PCAP : **Examen (à planifier)** |
+| **Mar 06** | AZ-400 : Module 3 (Tests) | AZ-400 : Labs            | Cours Python Harvard (Semaine 2) |
+| **Mer 07** | AZ-400 : Module 4 (Sécurité DevOps) | AZ-400 : Révision | Projet perso (ex : CV générateur) |
+| **Jeu 08** | AZ-400 : Simulation d’examen | AZ-400 : Points faibles  | Relaxation |
+| **Ven 09** | **Examen AZ-400 (à planifier)** | Repos post-examen | Bilan hebdomadaire |
+
+---
+
+## Semaine 5 (12–16 Janvier 2026)
+**Priorité** : Python Harvard + Projets
+
+| Jour       | Matin                     | Après-midi               | Soir                     |
+|------------|---------------------------|--------------------------|--------------------------|
+| **Lun 12** | Cours Python Harvard (Semaine 3) | Projet perso (ex : API Next.js) | Veille tech |
+| **Mar 13** | Cours Python Harvard (Semaine 4) | AZ-400 : Retours d’expérience | GitHub : Contribution open source |
+| **Mer 14** | Projet perso (ex : Web3)  | Projet perso             | Réseautage (LinkedIn) |
+| **Jeu 15** | Cours Python Harvard (Semaine 5) | AZ-400 : Approfondissement | Relaxation |
+| **Ven 16** | Bilan certifications      | Planification février    | *Soirée libre* |
+
+---
+
+## Semaine 6 (19–23 Janvier 2026)
+**Priorité** : Projets + Approfondissement
+
+| Jour       | Matin                     | Après-midi               | Soir                     |
+|------------|---------------------------|--------------------------|--------------------------|
+| **Lun 19** | Projet perso (ex : Uber déménageurs) | Documentation technique | Cours Python Harvard (Semaine 6) |
+| **Mar 20** | Projet perso              | Projet perso             | Veille tech |
+| **Mer 21** | AZ-400 : Retours si échec | Projet perso             | Préparation entretien (simulation) |
+| **Jeu 22** | Cours Python Harvard (Semaine 7) | Projet perso             | Relaxation |
+| **Ven 23** | Bilan global              | Planification 2026       | *Soirée libre* |
+
+---
+
+## Semaine 7 (26–30 Janvier 2026)
+**Priorité** : Finalisation
+
+| Jour       | Matin                     | Après-midi               | Soir                     |
+|------------|---------------------------|--------------------------|--------------------------|
+| **Lun 26** | Projet perso              | Projet perso             | Cours Python Harvard (Semaine 8) |
+| **Mar 27** | Projet perso              | Projet perso             | Préparation portfolio |
+| **Mer 28** | **Examen PCAP (si non passé)** | Projet perso        | Relaxation |
+| **Jeu 29** | Bilan compétences         | Roadmap 2026             | *Soirée libre* |
+| **Ven 30** | **Dernière révision**     | **Célébration !**        | *Soirée libre* |
+
+---
+
+## Conseils Clés
+1. **Ressources** :
+   - AZ-104/204/400 : [Microsoft Learn](https://learn.microsoft.com/fr-fr/certifications/), labs pratiques.
+   - PCAP : [OpenEDG](https://edube.org/), exercices sur Codewars.
+   - GitHub Foundations : [GitHub Skills](https://skills.github.com/).
+   - Python Harvard : [CS50P](https://cs50.harvard.edu/python/2022/).
+
+2. **Outils** :
+   - Simulations d’examen : MeasureUp, Whizlabs.
+   - Gestion du temps : Pomodoro (25/5), Trello pour suivre tes progrès.
+
+3. **Équilibre** :
+   - Pauses de 5 min toutes les 45 min.
+   - Week-ends : Déconnexion totale ou projets légers (ex : impression 3D).
+
+---
+##Liste des certifications en vue
+
+# Liste des Certifications à Réaliser
+
+## Certifications Cloud & DevOps (Microsoft Azure)
+- [ ] **AZ-900** : Microsoft Azure Fundamentals *(17/12/2025)*
+- [ ] **AZ-104** : Microsoft Azure Administrator
+- [ ] **AZ-204** : Developing Solutions for Microsoft Azure
+- [ ] **AZ-400** : Designing and Implementing Microsoft DevOps Solutions
+
+## Certifications Python (Python Institute)
+- [x] **PCEP** : Certified Entry-Level Python Programmer *(déjà validée, score: 73%*)
+- [ ] **PCAP** : Certified Associate in Python Programming
+- [ ] **PCPP1** : Certified Professional in Python Programming 1
+- [ ] **PCPP2** : Certified Professional in Python Programming 2
+
+## Certification GitHub
+*(Optionnelle, retirée du programme intensif mais utile pour la collaboration)*
+- [ ] **GitHub Foundations**
+- [ ] **GitHub Acccctions**
+
+## Certifications MongoDB *(déjà obtenues)*
+- [x] **MongoDB Certified Associate Developer**
+- [x] **MongoDB Certified Data Modeler Associate**
+- [x] **MongoDB Certified Database Administrator Associate**
+
+## Autres Certifications Envisagées
+- [ ] **Stripe Certification** *(si applicable à tes projets)*
+
+---
+
+### Conseils pour le Suivi
+1. **Priorités** : Commencer par les certifications Azure (décembre-janvier), puis enchaîner avec les PCPP.
+2. **Outils** : Utiliser ce fichier pour cocher chaque certification au fur et à mesure.
+3. **Preuves** : Sauvegarde les badges (ex : Credly, Python Institute) dans un dossier dédié.
+
+
+---
 
 # 👋 Bonjour, je suis Nicolas RANO
 
