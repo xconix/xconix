@@ -146,7 +146,7 @@ Here are some ideas to get you started:
 - [ ] **AZ-400** : Designing and Implementing Microsoft DevOps Solutions
 
 ## Certifications Python (Python Institute)
-- [x] **PCEP** : Certified Entry-Level Python Programmer *(déjà validée, score: 73%*)
+- [x] **PCEP** : Certified Entry-Level Python Programmer *(déjà validée)
 - [ ] **PCAP** : Certified Associate in Python Programming
 - [ ] **PCPP1** : Certified Professional in Python Programming 1
 - [ ] **PCPP2** : Certified Professional in Python Programming 2
