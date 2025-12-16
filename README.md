@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 | Jour       | Matin (3h)               | Après-midi (3h)          | Soir (2h)                |
 |------------|--------------------------|--------------------------|--------------------------|
-| **Mar 16** | Révision AZ-900 (simulations d’examen) | AZ-900 : Focus sécurité/compliance | Relaxation (veille de l’examen) |
+| 🟨**Mar 16** | Révision AZ-900 (simulations d’examen) | AZ-900 : Focus sécurité/compliance | Relaxation (veille de l’examen) |
 | **Mer 17** | **Examen AZ-900 (9h30)** | Repos post-examen        | Lancer AZ-104 : Module 1 (Identité/Gouvernance) |
 | **Jeu 18** | AZ-104 : Module 2 (Réseaux) | AZ-104 : Module 3 (Stockage) | PCAP : Python Essentials 1 (Ch. 1-3) |
 | **Ven 19** | AZ-104 : Module 4 (VMs)   | AZ-104 : Labs pratiques   | GitHub Foundations : Module 1 |
