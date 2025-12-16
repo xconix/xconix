@@ -154,7 +154,7 @@ Here are some ideas to get you started:
 ## Certification GitHub
 *(Optionnelle, retirée du programme intensif mais utile pour la collaboration)*
 - [ ] **GitHub Foundations**
-- [ ] **GitHub Acccctions**
+- [ ] **GitHub Actions**
 
 ## Certifications MongoDB *(déjà obtenues)*
 - [x] **MongoDB Certified Associate Developer**
@@ -170,7 +170,6 @@ Here are some ideas to get you started:
 1. **Priorités** : Commencer par les certifications Azure (décembre-janvier), puis enchaîner avec les PCPP.
 2. **Outils** : Utiliser ce fichier pour cocher chaque certification au fur et à mesure.
 3. **Preuves** : Sauvegarde les badges (ex : Credly, Python Institute) dans un dossier dédié.
-
 
 ---
 
