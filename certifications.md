@@ -3,7 +3,7 @@
 
 ## 🏆 Certifications Obtenues
 - [x] **AZ-900** : Microsoft Azure Fundamentals *(17/12/2025)*
-- [x] **PCEP** : Certified Entry-Level Python Programmer *(score: 73%)*
+- [x] **PCEP** : Certified Entry-Level Python Programmer
 - [x] **MongoDB Certified Associate Developer**
 - [x] **MongoDB Certified Data Modeler Associate**
 - [x] **MongoDB Certified Database Administrator Associate**
