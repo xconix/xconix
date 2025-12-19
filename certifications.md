@@ -3,7 +3,7 @@
 
 ## 🏆 Certifications Obtenues
 - [x] **AZ-900** : Microsoft Azure Fundamentals *(17/12/2025)*
-- [x] **PCEP** : Certified Entry-Level Python Programmer
+- [x] **PCEP** : Certified Entry-Level Python Programmer *(17/11/2025)*
 - [x] **MongoDB Certified Associate Developer**
 - [x] **MongoDB Certified Data Modeler Associate**
 - [x] **MongoDB Certified Database Administrator Associate**
@@ -25,6 +25,7 @@
 
 ### Autres
 - [ ] **GitHub Foundations** *(optionnelle)*
+- [ ] **GitHub Actions** *(optionnelle)*
 - [ ] **Stripe Certification** *(si applicable)*
 
 ---
@@ -32,19 +33,21 @@
 ## 📅 Suivi des Progrès
 | Certification                          | Date de Réussite | Lien vers le Badge (Credly, etc.) |
 |-----------------------------------------|------------------|-----------------------------------|
-| AZ-900                                  | 17/12/2025       | [Lien](https://www.credly.com)    |
-| PCEP                                    | 17/11/2025       | [Lien](https://www.credly.com)    |
+| AZ-900                                  | 17/12/2025       | [Lien](https://learn.microsoft.com/api/credentials/share/fr-fr/NicolasRANO-0145/B092EEB514C6BB22?sharingId=73691C0D5C72A59)    |
 | MongoDB Certified Associate Developer   | 29/09/2025       | [Lien](https://www.credly.com)    |
 | MongoDB Certified Data Modeler Associate| 13/10/2025       | [Lien](https://www.credly.com)    |
 | MongoDB Certified Database Administrator| 27/10/2025       | [Lien](https://www.credly.com)    |
 | AZ-204                                  | -                |                                   |
 | AWS Certified Developer – Associate     | -                |                                   |
+| PCEP                                    | 17/11/2025       | [Lien](https://www.credly.com)    |
 | PCAP                                    | -                |                                   |
 | PCPP1                                   | -                |                                   |
 | PCPP2                                   | -                |                                   |
 | AZ-400                                  | -                |                                   |
 | AWS Certified DevOps Engineer – Professional | -          |                                   |
 | GitHub Foundations                      | -                |                                   |
+| GitHub Actions                      | -                |                                   |
+
 
 ---
 
