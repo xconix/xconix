@@ -33,10 +33,10 @@
 | Certification                          | Date de Réussite | Lien vers le Badge (Credly, etc.) |
 |-----------------------------------------|------------------|-----------------------------------|
 | AZ-900                                  | 17/12/2025       | [Lien](https://www.credly.com)    |
-| PCEP                                    | -                | [Lien](https://www.credly.com)    |
-| MongoDB Certified Associate Developer   | -                | [Lien](https://www.credly.com)    |
-| MongoDB Certified Data Modeler Associate| -                | [Lien](https://www.credly.com)    |
-| MongoDB Certified Database Administrator| -                | [Lien](https://www.credly.com)    |
+| PCEP                                    | 17/11/2025       | [Lien](https://www.credly.com)    |
+| MongoDB Certified Associate Developer   | 29/09/2025       | [Lien](https://www.credly.com)    |
+| MongoDB Certified Data Modeler Associate| 13/10/2025       | [Lien](https://www.credly.com)    |
+| MongoDB Certified Database Administrator| 27/10/2025       | [Lien](https://www.credly.com)    |
 | AZ-204                                  | -                |                                   |
 | AWS Certified Developer – Associate     | -                |                                   |
 | PCAP                                    | -                |                                   |
