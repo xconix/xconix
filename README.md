@@ -140,7 +140,7 @@ Here are some ideas to get you started:
 # Liste des Certifications à Réaliser
 
 ## Certifications Cloud & DevOps (Microsoft Azure)
-- [ ] **AZ-900** : Microsoft Azure Fundamentals *(17/12/2025)*
+- [x] **AZ-900** : Microsoft Azure Fundamentals *(17/12/2025)*
 - [ ] **AZ-104** : Microsoft Azure Administrator
 - [ ] **AZ-204** : Developing Solutions for Microsoft Azure
 - [ ] **AZ-400** : Designing and Implementing Microsoft DevOps Solutions
