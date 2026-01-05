@@ -204,7 +204,7 @@ Je conçois des applications web performantes et élégantes, avec un fort accen
 ###  📋 Skills
 ✅ [CRUD Operations in MongoDB](https://www.credly.com/badges/5aeeb724-46e4-4191-bb1c-e0cece7ef515/public_url)  
 ✅ [From Relational Model (SQL) to MongoDB's Document Model](https://www.credly.com/badges/6100ffc9-4e23-4403-b644-4dc79e5f04cf/public_url)  
-✅ []()  
+<!-- ✅ []() --> 
 
 ---
 
