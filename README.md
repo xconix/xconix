@@ -15,6 +15,183 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+# 🚀 Roadmap 6 mois – Architecte Logiciel Fullstack → IA Appliquée
+**Période : 10 février 2026 → 10 août 2026**  
+**Profil cible : Architecte Logiciel / Ingénieur IA Appliquée (.NET + Python + Cloud)**
+
+---
+
+## 🎯 Objectifs globaux
+
+- Valider **AZ-204** (priorité absolue)
+- Monter en **Python professionnel avancé** (PCAP → PCPP1 → PCPP2)
+- Se positionner sur **l’IA appliquée en entreprise**, pas Data Science académique
+- Construire un **portfolio technique différenciant** (.NET + Python + IA + Cloud)
+- Consolider les **fondamentaux Clean Code / Clean Architecture**
+
+---
+
+## 🧱 Stack cible consolidée
+
+- **Backend** : C# / .NET / ASP.NET Core / EF Core
+- **Python** : Python avancé (Fluent Python), APIs, ML/IA
+- **Cloud** : Azure (App Services, Identity, CI/CD, AI)
+- **IA** : Azure AI / ML, intégration applicative
+- **Architecture** : Clean Architecture, API sécurisées, CI/CD
+- **Sécurité** : JWT / OAuth2 / OIDC (Keycloak, Auth0)
+
+---
+
+# 📆 Phase 1 — Février 2026  
+## Fondations & lancement AZ-204 (10/02 → 29/02)
+
+### 🎓 Certifications
+- 🔥 **Démarrage officiel AZ-204**
+- Révision Azure fundamentals (AZ-900 déjà validé)
+
+### 📚 Lectures
+- **C# in Depth (Jon Skeet)**  
+  - Rythme : 1 chapitre / jour  
+  - Objectif : approfondissement C# 6/7 pour AZ-204
+- **Clean Code (Robert C. Martin)**  
+  - Lecture du soir (en parallèle)
+
+### 🐍 Python
+- **Python Essentials 1 – ENI**
+  - Préparation PCAP
+  - Consolidation syntaxe, structures, exceptions
+
+### 🧪 Technique
+- Mise en place d’un **repo GitHub “Roadmap 2026”**
+- Création du socle portfolio (README, objectifs, stack)
+
+---
+
+# 📆 Phase 2 — Mars 2026  
+## AZ-204 + PCAP (01/03 → 31/03)
+
+### 🎓 Certifications
+- 🔥 **Passage AZ-204 (objectif : fin mars)**
+- **PCAP – Python Certified Associate**
+
+### 📚 Lectures
+- Finalisation **C# in Depth**
+- Début **ASP.NET Core MVC – Christophe Gigax**
+- Clean Code (suite)
+
+### 🧪 Projets
+- Projet 1 : **API REST ASP.NET Core**
+  - Auth JWT / OIDC
+  - EF Core + migrations
+  - CI/CD Azure DevOps ou GitHub Actions
+
+👉 Ce projet servira de **socle pour les futurs projets IA**
+
+---
+
+# 📆 Phase 3 — Avril 2026  
+## Python pro & architecture (01/04 → 30/04)
+
+### 🎓 Certifications
+- **PCPP1 – Python Professional Programmer 1**
+
+### 📚 Lectures
+- **Python Essentials 2 – ENI**
+- Début **Fluent Python – Luciano Ramalho**
+- Début **Clean Architecture**
+
+### 🧪 Projets
+- Projet 2 : **Service Python professionnel**
+  - API Flask / FastAPI
+  - Tests unitaires
+  - Logging & monitoring
+  - Intégration avec API .NET
+
+🎯 Objectif : montrer que Python est **intégré proprement** dans un SI.
+
+---
+
+# 📆 Phase 4 — Mai 2026  
+## Python avancé & IA (01/05 → 31/05)
+
+### 🎓 Certifications
+- **PCPP2 – Python Professional Programmer 2**
+
+### 🎓 Formation
+- **CS50 – Introduction to Artificial Intelligence with Python (Harvard)**
+
+### 📚 Lectures
+- Fluent Python (suite)
+- Clean Architecture (suite)
+
+### 🧪 Projets
+- Projet 3 : **Pipeline IA**
+  - Ingestion de données
+  - Traitement Python
+  - Modèle ML simple
+  - Exposition via API
+  - Sécurité JWT
+
+👉 IA **appliquée**, pas académique.
+
+---
+
+# 📆 Phase 5 — Juin 2026  
+## IA Cloud & portfolio avancé (01/06 → 30/06)
+
+### 🎓 Certifications
+- 🔥 **AI-102 – Azure AI Engineer Associate**
+
+### 🧪 Projets
+- Projet 4 : **IA intégrée Azure**
+  - Azure OpenAI / Cognitive Services
+  - App .NET consommatrice
+  - Déploiement cloud
+  - Monitoring & coûts
+
+### 🧱 Architecture
+- Documentation d’architecture
+- Diagrammes
+- Décisions techniques (ADR)
+
+---
+
+# 📆 Phase 6 — Juillet → Début août 2026  
+## Finalisation & positionnement marché (01/07 → 10/08)
+
+### 🧪 Portfolio
+- Finalisation des 3–4 projets clés
+- README techniques détaillés
+- Screenshots, schémas, explications
+
+### 📄 CV & Branding
+- CV orienté **Architecte IA Appliquée**
+- Mise en avant :
+  - AZ-204
+  - PCAP / PCPP1 / PCPP2
+  - AI-102
+- Alignement LinkedIn / GitHub
+
+### 🧠 Bonus (optionnel)
+- Début DP-100 (si ML plus poussé)
+- Ou certification sécurité (OAuth / Cloud Security)
+
+---
+
+## 🏁 Résultat attendu à 6 mois
+
+- Architecte Logiciel **Azure certifié**
+- Python **professionnel avancé**
+- IA **appliquée et industrialisée**
+- Portfolio différenciant (rare sur le marché)
+- Positionnement :
+  > **Architecte / Ingénieur IA Appliquée (.NET + Python + Cloud)**
+
+---
+
+## 📌 Mantra
+> *“Pas un data scientist junior.  
+> Un architecte qui sait intégrer, sécuriser et déployer de l’IA proprement.”*
 
 
 # Feuille de Route : 16 Décembre 2025 – 31 Janvier 2026
