@@ -1,3 +1,206 @@
+# 🚀 Plan de montée en compétences — Mai 2026
+
+## 🎯 Objectifs du mois
+
+- 🔐 Maîtrise avancée de Keycloak
+- ⚛️ Approfondissement React / Vue / TypeScript
+- 🐳 Docker & Kubernetes (bases solides + mise en pratique)
+- 🍃 Certification MongoDB Atlas
+- ☁️ Certification Azure AZ-204
+- 🐙 Certification GitHub Foundations (optionnel mais visé)
+- ✍️ Création de contenu LinkedIn (MongoDB + Keycloak)
+
+---
+
+## 🕒 Organisation quotidienne
+
+### 📅 Jours travaillés : Lundi → Vendredi
+
+- **06h00 - 07h00 (optionnel)** → Lecture / théorie
+- **09h00 - 12h00** → Deep Work (focus principal du jour)
+- **12h00 - 13h00** → Pause
+- **13h00 - 16h00** → Pratique / projet / labs
+- **20h30 - 22h00** → Lecture / révisions / préparation certification
+
+---
+
+## 📆 Stratégie globale
+
+- 🔁 Travail en **sprints hebdomadaires**
+- 🎯 1 à 2 priorités max par semaine
+- 🧠 Alternance théorie + pratique
+- 📢 Post LinkedIn tous les 3 jours
+- 🧪 Mini-projets concrets obligatoires
+
+---
+
+# 🗓️ Semaine 1 (4 → 8 mai)
+
+## 🎯 Focus
+- Keycloak (avancé)
+- MongoDB (fondamentaux + Atlas)
+
+## 📌 Travail
+
+### Keycloak
+- Auth flows personnalisés
+- Intégration React + .NET sécurisée
+- Gestion des rôles avancée
+
+### MongoDB
+- Data modeling
+- Aggregation pipeline
+- MongoDB Atlas (cluster + sécurité)
+
+## 🛠️ Projet
+- API sécurisée avec Keycloak + MongoDB
+
+## ✍️ LinkedIn
+- Post 1 : Introduction MongoDB Atlas
+- Post 2 : Keycloak (auth centralisée)
+
+---
+
+# 🗓️ Semaine 2 (11 → 15 mai)
+
+## 🎯 Focus
+- Docker + Kubernetes
+- MongoDB (niveau certification)
+
+## 📌 Travail
+
+### Docker
+- Dockerfile optimisé
+- Docker Compose multi-services
+
+### Kubernetes
+- Pods / Deployments / Services
+- Déploiement API + DB
+
+### MongoDB
+- Révisions certification
+- Exam blanc
+
+## 🛠️ Projet
+- Déployer API + MongoDB + Keycloak via Docker
+
+## ✍️ LinkedIn
+- Post 3 : Docker pour dev backend
+- Post 4 : MongoDB Aggregation
+
+---
+
+# 🗓️ Semaine 3 (18 → 22 mai)
+
+## 🎯 Focus
+- Azure AZ-204
+- React / TypeScript avancé
+
+## 📌 Travail
+
+### Azure
+- App Services
+- Azure Functions
+- Storage / Key Vault
+
+### React / TS
+- Architecture propre
+- Optimisation performances
+- State management avancé
+
+## 🛠️ Projet
+- Déploiement cloud de votre API
+
+## ✍️ LinkedIn
+- Post 5 : Azure App Services
+- Post 6 : React performance tips
+
+---
+
+# 🗓️ Semaine 4 (25 → 29 mai)
+
+## 🎯 Focus
+- Certifications
+- Vue.js
+- GitHub Foundations
+
+## 📌 Travail
+
+### Certifications
+- MongoDB → PASSAGE
+- AZ-204 → PASSAGE
+
+### Vue.js
+- Différences React
+- Mini app
+
+### GitHub
+- Actions
+- CI/CD
+
+## 🛠️ Projet
+- Pipeline CI/CD complet
+
+## ✍️ LinkedIn
+- Post 7 : Retour MongoDB cert
+- Post 8 : Keycloak + microservices
+
+---
+
+# 🧠 Routine du soir (20h30 - 22h)
+
+- Révisions certification
+- Lecture docs officielles
+- Flashcards
+- Exam blancs
+
+---
+
+# 📚 Lecture matin (6h - 7h)
+
+- Docs officielles
+- Articles techniques
+- Veille technologique
+
+---
+
+# 🏁 Objectifs fin de mois
+
+- ✅ Certification MongoDB
+- ✅ Certification AZ-204
+- ✅ GitHub Foundations (bonus)
+- ✅ 8+ posts LinkedIn
+- ✅ 2 projets concrets
+- ✅ Stack maîtrisée (Keycloak + MongoDB + Docker + React)
+
+---
+
+# 📊 Suivi
+
+## ✔️ Checklist hebdomadaire
+
+- [ ] Heures respectées
+- [ ] Objectifs atteints
+- [ ] Projet avancé
+- [ ] Post LinkedIn publié
+
+---
+
+# 🔥 Règles personnelles
+
+- Pas de distraction pendant Deep Work
+- Toujours produire (code > théorie)
+- Priorité à la compréhension réelle
+- Pas de perfectionnisme → progression
+
+---
+
+# 💡 Devise
+
+> "Discipline > Motivation"
+
+-------------------
+
 ## Hi there 👋
 ### 🔭 I’m currently working on ...
 <!--
